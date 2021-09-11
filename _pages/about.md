@@ -10,8 +10,9 @@ redirect_from:
 
 Mohammad Amin Bajand
 ======
-I am a M.Sc. student in Computer Engineering at Sharif University of Technology (SUT) working at the intersection of Machine Learning (ML) and Computer Security (Adversarial ML). I received my B.Sc. from Qom University (SUT) in 2016, and my B.Sc. from Isfahan University of Technology (IUT) in 2014 (both in Information Technology engineering).
+I am a M.Sc. student in the Computer Engineering Department at Sharif University of Technology (SUT), advised by Professor Morteza Amini. My research interest is in Data-Intensive Computing, Distributed Machine Learning, and Big Data Analytics.
 
+Before coming to SUT, I earned a B.Sc. degree in Computer Engineering from Qom University, Qom, Iran.
 
 Research Interests
 ======
