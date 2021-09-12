@@ -10,11 +10,15 @@ redirect_from:
 
 Mohammad Amin Bajand
 ======
-I am a M.Sc. student in the Computer Engineering Department at Sharif University of Technology (SUT), advised by Professor Morteza Amini. My research interest is in Data-Intensive Computing, Distributed Machine Learning, and Big Data Analytics.
+I am a M.Sc. student in the Computer Engineering Department at Sharif University of Technology (SUT), advised by Professor Morteza Amini. 
 
 Before coming to SUT, I earned a B.Sc. degree in Computer Engineering from Qom University, Qom, Iran.
 
 Research Interests
 ======
-interests
-
+My research interest is: 
+- Data-Intensive Computing
+- Distributed Machine Learning
+- Big Data Analytics
+- Distributed Systems Design
+- Internet of Things
