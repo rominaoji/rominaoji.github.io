@@ -16,7 +16,7 @@ Before coming to SUT, I earned a B.Sc. degree in Computer Engineering from Qom U
 
 Research Interests
 ======
-My research interest is: 
+My research interests are: 
 - Data-Intensive Computing
 - Distributed Machine Learning
 - Big Data Analytics
