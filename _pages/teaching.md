@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* Advanced Network Security
+* **Advanced Network Security**
   * _Teaching Assistant_
 
-* Operating Systems
+* **Operating Systems**
   * _Teaching Assistant_
