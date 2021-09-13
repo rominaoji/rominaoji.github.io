@@ -9,5 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-* M.Sc. Student in Computer Engineering, Sep 2019 - Feb 2022 (Expected)
-* B.Sc. in Computer Engineering, Sep 2013 - Sep 2018
+<blockquote>
+  <p><strong>M.Sc. Student in Computer Engineering</strong> <br>
+  Sharif University of Technology</p>
+  
+  <ul>
+  <li>CGPA:   Overall         19.17 / 20   </li>
+  <li>Ranked 1st in Cumulative GPA among all entrants of 2019, Secure Computing, Computer Engineering Department<br></li>
+  </ul>
+</blockquote>
