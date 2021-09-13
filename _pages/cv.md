@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You may find my CV [here](CV.pdf).
-[Last update: May 2021]
+You may find my CV [here](https://maminbajand.github.io/CV.pdf).
+[Last update: September 2021]
 
 Education
 ======
