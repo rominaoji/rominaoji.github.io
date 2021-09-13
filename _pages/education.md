@@ -18,3 +18,13 @@ redirect_from:
   <li>Ranked 1st in Cumulative GPA among all entrants of 2019, Secure Computing, Computer Engineering Department<br></li>
   </ul>
 </blockquote>
+
+<blockquote>
+  <p><strong>B.Sc. in Computer Engineering</strong> <br>
+  Qom University</p>
+  
+  <ul>
+  <li>CGPA:   Overall        19.52 / 20   </li>
+  <li>Ranked 1st in Cumulative GPA among all entrants of 2013, Software Engineering, Computer Engineering Group<br></li>
+  </ul>
+</blockquote>
