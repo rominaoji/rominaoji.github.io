@@ -6,11 +6,16 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
+  - title: "Education"
+    url: /education/
+
+  - title: "Honors and Awards"
+    url: /honors/
+
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Education"
-    url: /education/
+
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
