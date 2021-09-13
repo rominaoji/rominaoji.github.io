@@ -19,4 +19,5 @@ My research interests are:
 - Distributed Machine Learning
 - Big Data Analytics
 - Distributed Systems Design
+- Cloud/Edge Computing
 - Internet of Things
