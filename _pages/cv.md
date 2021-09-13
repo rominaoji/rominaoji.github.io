@@ -10,5 +10,6 @@ redirect_from:
 {% include base_path %}
 
 You may find my CV [here](https://maminbajand.github.io/CV.pdf).
+
 [Last update: September 2021]
 
