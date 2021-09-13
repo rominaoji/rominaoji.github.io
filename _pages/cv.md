@@ -11,9 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. Student in Computer Engineering, Sep 2019 - Feb 2022 (Expected)
+* B.Sc. in Computer Engineering, Sep 2013 - Sep 2018
+
+Honors and Awards
+======
+* Ranked **1st** in Cumulative GPA among all entrants of 2019, **Secure Computing, Computer Engineering Department**, Sharif University of Technology, Tehran, Iran. | 2021
+
+\resumeItem{\textbf{Ranked \textbf{1\textsuperscript{st}}} in Cumulative GPA among all entrants of 2013,  \textbf{Software Engineering, Computer Engineering Group}, among more than 20 students, Qom University, Qom, Iran. \mostright{\textit{2018}}}
+    
+    \resumeItem{Member of \textbf{Iran's National Elites Foundation.} \mostright{\textit{2021}}}
+    
+    \resumeItem{Member of \textbf{National Organization for Development of Exceptional Talents (NODET)} \mostright{\textit{2006 - 2013}}}
+
 
 Work experience
 ======
@@ -36,18 +46,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
