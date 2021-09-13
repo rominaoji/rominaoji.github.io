@@ -15,7 +15,7 @@ redirect_from:
   
   <ul>
   <li>CGPA:   Overall         19.17 / 20   </li>
-  <li>Ranked 1st in Cumulative GPA among all entrants of 2019, Secure Computing, Computer Engineering Department<br></li>
+  <li>Ranked 1st in Cumulative GPA among all entrants of 2019, Secure Computing, Computer Engineering Department.<br></li>
   </ul>
 </blockquote>
 
@@ -25,6 +25,6 @@ redirect_from:
   
   <ul>
   <li>CGPA:   Overall        19.52 / 20   </li>
-  <li>Ranked 1st in Cumulative GPA among all entrants of 2013, Software Engineering, Computer Engineering Group<br></li>
+  <li>Ranked 1st in Cumulative GPA among all entrants of 2013, Software Engineering, Computer Engineering Group.<br></li>
   </ul>
 </blockquote>
