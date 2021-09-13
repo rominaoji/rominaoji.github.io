@@ -17,12 +17,9 @@ Education
 Honors and Awards
 ======
 * Ranked **1st** in Cumulative GPA among all entrants of 2019, **Secure Computing, Computer Engineering Department**, Sharif University of Technology, Tehran, Iran. | 2021
-
-\resumeItem{\textbf{Ranked \textbf{1\textsuperscript{st}}} in Cumulative GPA among all entrants of 2013,  \textbf{Software Engineering, Computer Engineering Group}, among more than 20 students, Qom University, Qom, Iran. \mostright{\textit{2018}}}
-    
-    \resumeItem{Member of \textbf{Iran's National Elites Foundation.} \mostright{\textit{2021}}}
-    
-    \resumeItem{Member of \textbf{National Organization for Development of Exceptional Talents (NODET)} \mostright{\textit{2006 - 2013}}}
+* Ranked **1st** in Cumulative GPA among all entrants of 2013, **Software Engineering, Computer Engineering Group**, among more than 20 students, Qom University, Qom, Iran. | 2018
+* Member of **Iran's National Elites Foundation.** | 2021
+* Member of **National Organization for Development of Exceptional Talents (NODET)** | 2006 - 2013
 
 
 Work experience
