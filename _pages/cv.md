@@ -16,23 +16,24 @@ Education
 
 Honors and Awards
 ======
-* Ranked **1st** in Cumulative GPA among all entrants of 2019, **Secure Computing, Computer Engineering Department**, Sharif University of Technology, Tehran, Iran. | 2021
-* Ranked **1st** in Cumulative GPA among all entrants of 2013, **Software Engineering, Computer Engineering Group**, among more than 20 students, Qom University, Qom, Iran. | 2018
-* Member of **Iran's National Elites Foundation.** | 2021
-* Member of **National Organization for Development of Exceptional Talents (NODET)** | 2006 - 2013
+* 2021: Ranked **1st** in Cumulative GPA among all entrants of 2019, **Secure Computing, Computer Engineering Department**, Sharif University of Technology, Tehran, Iran.
+* 2018: Ranked **1st** in Cumulative GPA among all entrants of 2013, **Software Engineering, Computer Engineering Group**, among more than 20 students, Qom University, Qom, Iran.
+* 2021: Member of **Iran's National Elites Foundation.**
+* 2006 - 2013: ember of **National Organization for Development of Exceptional Talents (NODET)**
 
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2020 - Present: Distributed Anomaly Detection on the IoT Edge
+  * Advisor: Dr. Morteza Amini
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Fine-grained Mobile Network Analytics
+  * Advisor: Dr. Abolfazl Diyanat
+
+* 2017 - 2018: Sentiment Analysis Based Machine Labeling on Persian E-Commerce Websites
+  * Advisor: Dr. Hossein Amirkhani
+
+
   
 Skills
 ======
