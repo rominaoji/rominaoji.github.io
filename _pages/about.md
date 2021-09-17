@@ -10,7 +10,7 @@ redirect_from:
 
 Mohammad Amin Bajand
 ======
-I am a M.Sc. student in the Computer Engineering Department at Sharif University of Technology (SUT), advised by Dr. Morteza Amini. Before coming to SUT, I earned a B.Sc. degree in Computer Engineering from Qom University, Qom, Iran.
+I am an M.Sc. student in the Computer Engineering Department at Sharif University of Technology (SUT), advised by Dr. Morteza Amini. Before coming to SUT, I earned a B.Sc. degree in Computer Engineering from Qom University, Qom, Iran.
 
 Research Interests
 ======
