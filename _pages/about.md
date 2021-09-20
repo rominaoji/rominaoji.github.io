@@ -20,5 +20,7 @@ My research interests are:
 - Distributed Machine Learning
 - Distributed Systems Design
 - Cloud/Edge Computing
+- Information Security
+- Cybersecurity
 - Formal Methods
 - Software Verification
