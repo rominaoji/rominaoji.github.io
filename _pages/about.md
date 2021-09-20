@@ -17,8 +17,8 @@ Research Interests
 My research interests are: 
 - Data-Intensive Computing
 - Big Data Analytics
-- Formal Methods
 - Distributed Machine Learning
 - Distributed Systems Design
 - Cloud/Edge Computing
+- Formal Methods
 - Software Verification
