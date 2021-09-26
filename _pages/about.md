@@ -15,6 +15,8 @@ I am an M.Sc. student in the Computer Engineering Department at Sharif Universit
 Research Interests
 ======
 My research interests are: 
+- Computer Vision
+- Real-Time Object Detection
 - Data-Intensive Computing
 - Big Data Analytics
 - Distributed Machine Learning
