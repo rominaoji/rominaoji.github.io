@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Amin Bajand"
+title                    : "Romina Oji"
 title_separator          : "-"
-name                     : "Mohammad Amin Bajand"
-description              : "Mohammad Amin Bajand's Home Page"
-url                      : https://maminbajand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Romina Oji"
+description              : "Romina Oji's Home Page"
+url                      : https://rominaoji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "maminbajand/maminbajand.github.io"
+repository               : "rominaoji/rominaoji.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Amin Bajand"
+  name             : "Romina Oji"
   avatar           : "profile.png"
-  bio              : "M.Sc. Student in the Computer Engineering Department at Sharif University of Technology"
+  bio              : "M.Sc. Student in the Computer Engineering Department at University of Tehran"
   location         :
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : maminbajand@gmail.com
+  email            : romina.oji.ro@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "maminbajand"
+  github           : "rominaoji"
   google_plus      :
   keybase          :
   instagram        :
