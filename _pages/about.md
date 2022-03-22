@@ -8,21 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Mohammad Amin Bajand
+Romina Oji
 ======
-I am an M.Sc. student in the Computer Engineering Department at Sharif University of Technology (SUT), advised by Dr. Morteza Amini. Before coming to SUT, I earned a B.Sc. degree in Computer Engineering from Qom University, Qom, Iran.
+I am an M.Sc. student in the Computer Engineering Department at University of Tehran, advised by Dr. Hesham Faili.
 
 Research Interests
 ======
 My research interests are: 
+- Natural Language Processing
+- Deep Learning
+- Machine Learning
 - Computer Vision
-- Real-Time Object Detection
-- Data-Intensive Computing
-- Big Data Analytics
-- Distributed Machine Learning
-- Distributed Systems Design
-- Cloud/Edge Computing
-- Information Security
-- Cybersecurity
-- Formal Methods
-- Software Verification
