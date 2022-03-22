@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You may find my CV [here](https://maminbajand.github.io/files/CV.pdf).
+You may find my CV [here](https://rominaoji.github.io/files/Romina_CV.pdf).
 
-[Last update: September 2021]
+[Last update: March 2022]
 
