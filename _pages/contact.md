@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-* **Email**: maminbajand !AT! gmail !DOT! com
-* **Skype**: maminbajand
+* **Email**: romina.oji.ro@gmail.com
+* **Skype**: live:.cid.df376b8f83623b48
+* **phone Number** : +989191225933
