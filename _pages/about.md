@@ -10,7 +10,7 @@ redirect_from:
 
 Romina Oji
 ======
-I am an M.Sc. student in the Computer Engineering Department at University of Tehran, advised by Dr. Hesham Faili.
+I am M.Sc. student in the Computer Engineering Department at University of Tehran, advised by Dr. Hesham Faili.
 
 Research Interests
 ======

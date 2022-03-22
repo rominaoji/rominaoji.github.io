@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-* Ranked **1st** in Cumulative GPA among all entrants of 2019, **Secure Computing, Computer Engineering Department**, Sharif University of Technology, Tehran, Iran.
-* Ranked **1st** in Cumulative GPA among all entrants of 2013, **Software Engineering, Computer Engineering Group**, among more than 20 students, Qom University, Qom, Iran.
-* Member of **Iran's National Elites Foundation**.
-* Member of **National Organization for Development of Exceptional Talents (NODET)**.
+* **Best Paper Award**, 7th Conference on Signal Processing and Intelligent Systems (ICSPIS 2021).
+* Ranked **2nd** in Cumulative GPA among all entrants of 2014, **Software Engineering, Computer Engineering Group**, among more than 30 students, Shariaty University, Tehran, Iran .
+* **Head Leader** of open-source association in Shariaty university .
+* **Ranked 101th** among more than 12,000 participants in the Nationwide University Entrance Exam known as Konkur for M.Sc degree in Computer Engineering .
+* **Ranked Top 2 Percent** among more than 250,000 participants in the nationwide university entrance exam known as Konkur for B.Sc degree in computer engineering .
+
