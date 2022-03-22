@@ -11,20 +11,21 @@ redirect_from:
 
 <blockquote>
   <p><strong>M.Sc. Student in Computer Engineering</strong> <br>
-  Sharif University of Technology</p>
+   University of Tehran</p>
   
   <ul>
-  <li>CGPA:   Overall         19.17 / 20   </li>
-  <li>Ranked 1st in Cumulative GPA among all entrants of 2019, Secure Computing, Computer Engineering Department.<br></li>
+  <li>GPA:   Overall         17.91 / 20   </li>
+  <li>Thesis: Real-Word Error Detection and Correction</li>
+  <li>Thesis Advisor: <a href="https://ece.ut.ac.ir/en/~hfaili">Dr. Heshaam Faili</a></li>
   </ul>
 </blockquote>
 
 <blockquote>
   <p><strong>B.Sc. in Computer Engineering</strong> <br>
-  Qom University</p>
+   Dr. Shariaty Technical and Vocational University</p>
   
   <ul>
-  <li>CGPA:   Overall        19.52 / 20   </li>
-  <li>Ranked 1st in Cumulative GPA among all entrants of 2013, Software Engineering, Computer Engineering Group.<br></li>
+  <li>GPA:   Overall        18.77 / 20   </li>
+  <li>Ranked 2nd in Cumulative GPA among all entrants of 2014, Software Engineering, Computer Engineering Group.<br></li>
   </ul>
 </blockquote>
