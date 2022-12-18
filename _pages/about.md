@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I received an M.Sc. degree from the School of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en), where I was a member of the Natural Language 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗟𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘆 [(NLP)](https://ece.ut.ac.ir/en/web/nlp/nlp), advised by [Prof. Heshaam Faili](https://scholar.google.se/citations?user=m5tCFEoAAAAJ&hl=en). After starting my master's degree, I concentrated on Machine Learning Research, specifically Deep Learning models on Natural Language Processing applications. My thesis was detecting and correcting non-word and real-word errors using Bert as a language model.
+I received an M.Sc. degree from the School of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en), where I was a member of the Natural Language Processing Laboratory [(NLP)](https://ece.ut.ac.ir/en/web/nlp/nlp), advised by [Prof. Heshaam Faili](https://scholar.google.se/citations?user=m5tCFEoAAAAJ&hl=en). After starting my master's degree, I concentrated on Machine Learning Research, specifically Deep Learning models on Natural Language Processing applications. My thesis was detecting and correcting non-word and real-word errors using Bert as a language model.
 
 Also, I finished my B.Sc. in Computer Engineering at the Department of Computer Engineering, [Dr. Shariaty University](https://www.shariaty.ac.ir/en), in July 2018. I grasped the basic concepts of Computer Engineering by taking many optional courses on math and computer science, leading to my attaining top grades and my becoming the second top student with a CGPA of 3.87/4.
 
