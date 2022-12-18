@@ -15,7 +15,7 @@ redirect_from:
   
   <ul>
   <li>GPA:   Overall         17.91 / 20   </li>
-  <li>Thesis: Real-Word Error Detection and Correction</li>
+  <li>Thesis: Real-Word and Non-Word Error Detection and Correction</li>
   <li>Thesis Advisor: <a href="https://ece.ut.ac.ir/en/~hfaili">Dr. Heshaam Faili</a></li>
   </ul>
 </blockquote>
