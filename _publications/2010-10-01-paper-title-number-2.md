@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "PerSpellData: An Exhaustive Parallel Spell Dataset For Persian"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'A comprehensive parallel dataset developed for the task of spell-checking in Persian. This dataset covers both non-word and real-word errors which can be used to develop an encoder-decoder model to detect and correct errors.'
+date: 2021-14-11
+venue: 'NSURL 2021, Trento, Italy'
+paperurl: 'https://aclanthology.org/2021.nsurl-1.2.pdf'
+citation: 'Oji, Romina, Nasrin Taghizadeh, and Heshaam Faili. "PerSpellData: An Exhaustive Parallel Spell Dataset For Persian." NSURL 2021 (2021): 24.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+A comprehensive parallel dataset developed for the task of spell-checking in Persian. This dataset covers both non-word and real-word errors which can be used to develop an encoder-decoder model to detect and correct errors.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://aclanthology.org/2021.nsurl-1.2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Oji, Romina, Nasrin Taghizadeh, and Heshaam Faili. "PerSpellData: An Exhaustive Parallel Spell Dataset For Persian." NSURL 2021 (2021): 24.
