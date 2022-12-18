@@ -38,7 +38,9 @@ redirect_from:
 
 <blockquote>
   <p><strong>Rayan Eghtesad Novin Bank</strong> <br>
-  Full-stack Web Developer</p>
+  Full-stack Web Developer<br>
+  Sep 2017 - Aug 2018
+  </p>
   
   <ul>
   <li>Developing back-end and UI of a website for presenting investment funds</li>
