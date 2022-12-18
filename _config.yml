@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Romina Oji"
   avatar           : "romina.png"
-  bio              : "M.Sc. Student in the Computer Engineering at University of Tehran"
-  location         :
+  bio              : "Researcher and Developer in Machine Learning"
+  location         : "Tehran, Iran"
   employer         :
   pubmed           :
   googlescholar    : https://scholar.google.com/citations?user=tcOO28oAAAAJ&hl=en
   email            : romina.oji.ro@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Romina-Oji"
   uri              :
   bitbucket        :
   codepen          :
