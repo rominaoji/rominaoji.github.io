@@ -3,11 +3,13 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /experience
 ---
 
-{% if author.googlescholar %}
+<p> if author.googlescholar
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+</p>
 
 {% include base_path %}
 
