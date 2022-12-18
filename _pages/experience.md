@@ -11,7 +11,9 @@ redirect_from:
 
 <blockquote>
   <p><strong>Hara</strong> <br>
-   Machine Learning Engineer</p>
+   Machine Learning Engineer <br>
+   Mar 2021 - Present
+   </p>
   
   <ul>
   <li> Research and Develop a call center using Text-to-Speech and Speech-to-Text</li>
@@ -21,8 +23,10 @@ redirect_from:
 </blockquote>
 
 <blockquote>
-  <p><strong>Vira Adon Soft</strong> <br>
-  Machine Learning Engineer</p>
+  <p><strong>Vira Adon Afzar</strong> <br>
+  Machine Learning Researcher<br>
+  Feb 2021 - Aug 2022
+  </p>
   
   <ul>
   <li>Developing commercial Persian spell checker Based on edit distance and language model</li>
