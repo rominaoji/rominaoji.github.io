@@ -11,7 +11,7 @@ redirect_from:
 
 <blockquote>
   <p><strong>M.Sc. Student in Computer Engineering</strong> <br>
-   University of Tehran</p>
+   University of Tehran       sep 2019 - sep 2020</p>
   
   <ul>
   <li>GPA:   Overall         17.91 / 20   </li>
@@ -22,7 +22,7 @@ redirect_from:
 
 <blockquote>
   <p><strong>B.Sc. in Computer Engineering</strong> <br>
-   Dr. Shariaty Technical and Vocational University</p>
+   Dr. Shariaty Technical and Vocational University       sep 2014 - july 2018</p>
   
   <ul>
   <li>GPA:   Overall        18.77 / 20   </li>
