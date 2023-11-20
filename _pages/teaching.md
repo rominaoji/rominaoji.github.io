@@ -10,6 +10,16 @@ redirect_from:
 {% include base_path %}
 
 <blockquote>
+  <h3>Trustworthy and Interpretable AI</h3>
+  <ul>
+    <li>Teaching Assistant</li>
+    <li>University of Tehran</li>
+    <li>Winter 2023</li>
+    <li>professor : <a href="https://ece.ut.ac.ir/en/~asadeghi" target="_blank">Dr. Mohammad Amin Sadeghi</a> and  <a href="https://ece.ut.ac.ir/en/~105820023" target="_blank">Dr. Mostafa Tavassolipour</a></li>
+  </ul>
+</blockquote>
+
+<blockquote>
   <h3>Big Data</h3>
   <ul>
     <li>Head Teaching Assistant</li>
