@@ -20,6 +20,16 @@ redirect_from:
 </blockquote>
 
 <blockquote>
+  <h3>Natural Language Processing</h3>
+  <ul>
+    <li>Teaching Assistant</li>
+    <li>University of Tehran</li>
+    <li>Winter 2023, Winter 2022, Winter 2021</li>
+    <li>professor : <a href="https://ece.ut.ac.ir/en/~hfaili" target="_blank">Dr. Heshaam Faili</a></li>
+  </ul>
+</blockquote>
+
+<blockquote>
   <h3>Big Data</h3>
   <ul>
     <li>Head Teaching Assistant</li>
@@ -39,15 +49,6 @@ redirect_from:
   </ul>
 </blockquote>
   
-<blockquote>
-  <h3>Natural Language Processing</h3>
-  <ul>
-    <li>Teaching Assistant</li>
-    <li>University of Tehran</li>
-    <li>Winter 2022, Winter 2021</li>
-    <li>professor : <a href="https://ece.ut.ac.ir/en/~hfaili" target="_blank">Dr. Heshaam Faili</a></li>
-  </ul>
-</blockquote>
 
 <blockquote>
   <h3>Neural Networks and Deep Learning</h3>
@@ -74,7 +75,7 @@ redirect_from:
   <ul>
     <li>Teaching Assistant</li>
     <li>University of Tehran</li>
-    <li>Fall 2021, Winter 2020</li>
+    <li>Fall 2022, Fall 2021, Winter 2020</li>
     <li>professor : <a href="https://ece.ut.ac.ir/en/~bahrak" target="_blank">Dr. Behnam Bahrak</a></li>
   </ul>
 </blockquote>
