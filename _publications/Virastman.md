@@ -7,6 +7,3 @@ date: 2024-03-17
 venue: 'The 18th Conference of the European Chapter of the Association for Computational Linguistics'
 paperurl: 'https://rominaoji.github.io/files/VirastmanPaper.pdf'
 ---
-
-
-Recommended citation: Oji, Romina, Nasrin Taghizadeh, and Heshaam Faili. "PerSpellData: An Exhaustive Parallel Spell Dataset For Persian." NSURL 2021 (2021): 24.
