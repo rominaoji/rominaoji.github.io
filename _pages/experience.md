@@ -10,9 +10,24 @@ redirect_from:
 {% include base_path %}
 
 <blockquote>
+  <p><strong>Ussistant</strong> <br>
+   Natural Language Processing Researcher and Engineer <br>
+   Jan 2023 - Present
+   </p>
+  
+  <ul>
+  <li>Developing chatbots using LLMs with LangChain</li>
+  <li>Crawling websites and generating FAQ Bot using LLMS</li>
+  <li>Research and develop different word-embedding for extracting the most similar text to a Sentence</li>
+  <li>Research and develop a Persian text-to-speech model</li>
+  <li>Chit-chat Part of a smart assistant(speaker)</li>
+  </ul>
+</blockquote>
+
+<blockquote>
   <p><strong>Hara</strong> <br>
    Machine Learning Engineer <br>
-   Mar 2021 - Present
+   Mar 2021 - Jan 2023
    </p>
   
   <ul>
