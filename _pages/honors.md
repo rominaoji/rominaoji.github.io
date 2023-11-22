@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-* **Best Paper Award**, 7th Conference on Signal Processing and Intelligent Systems (ICSPIS 2021).
+* **[Best Paper Award](https://rominaoji.github.io/files/bestpaper.jpeg)**, 7th Conference on Signal Processing and Intelligent Systems (ICSPIS 2021).
 * Ranked **2nd** in Cumulative GPA among all entrants of 2014, **Software Engineering, Computer Engineering Group**, among more than 30 students, Shariaty University, Tehran, Iran .
 * **Head Leader** of open-source association in Shariaty university .
 * **Ranked 101th** among more than 12,000 participants in the Nationwide University Entrance Exam known as Konkur for M.Sc degree in Computer Engineering .
