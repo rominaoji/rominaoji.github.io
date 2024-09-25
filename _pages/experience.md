@@ -12,7 +12,7 @@ redirect_from:
 <blockquote>
   <p><strong>Ussistant</strong> <br>
    Natural Language Processing Researcher and Engineer <br>
-   Jan 2023 - Present
+   Jan 2023 - Oct 2023
    </p>
   
   <ul>
