@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am Romina Oji, a dedicated researcher at Linköping University, specializing in Natural Language Processing (NLP). My current research is focused on Work Package 4 (WP4) of the TrustLLM project, a European initiative aimed at developing trustworthy, multilingual large language models (LLMs) for Germanic low-resource languages.
+I am Romina Oji, a dedicated researcher at Linköping University, specializing in Natural Language Processing (NLP). My current research is focused on Work Package 4 (WP4) of the TrustLLM project, a European initiative aimed at developing trustworthy, multilingual large language models (LLMs) for Germanic languages.
 
 I received an M.Sc. degree from the School of Electrical and Computer Engineering, [University of Tehran](https://ut.ac.ir/en), where I was a member of the Natural Language Processing Laboratory [(NLP)](https://ece.ut.ac.ir/en/web/nlp/nlp), supervised by [Prof. Heshaam Faili](https://scholar.google.se/citations?user=m5tCFEoAAAAJ&hl=en). My thesis was detecting and correcting non-word and real-word errors.
 
