@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-* **Email**: romina.oji.ro@gmail.com
+* **Email**: oji.romina@gmial.com
 * **Skype**: live:.cid.df376b8f83623b48
 * **phone Number** : +989191225933
