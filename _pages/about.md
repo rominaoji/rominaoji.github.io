@@ -16,6 +16,8 @@ I received an M.Sc. degree from the School of Electrical and Computer Engineerin
 
 Also, I finished my B.Sc. in Computer Engineering at the Department of Computer Engineering, [Dr. Shariaty University](https://www.shariaty.ac.ir/en), in July 2018. I grasped the basic concepts of Computer Engineering by taking many optional courses on math and computer science, leading to my attaining top grades and my becoming the second top student with a CGPA of 3.87/4.
 
+I am passionate about advancing the field of AI and NLP through collaborative research and practical applications. My goal is to contribute to the development of intelligent systems that can understand and process human language with greater precision, ultimately making technology more accessible and useful for everyone.
+
 Feel free to connect with me to discuss potential collaborations and research opportunities or just to share insights on the latest advancements in AI and NLP.
 
 Research Interests
