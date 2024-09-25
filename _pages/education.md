@@ -10,6 +10,17 @@ redirect_from:
 {% include base_path %}
 
 <blockquote>
+  <p><strong>PhD Student in Computer Science</strong> <br>
+   Linköping University<br>
+   Aug 2024 - Aug 2029</p>
+  
+  <ul>
+  <li>Thesis: Advancing Germanic Language Models through an Adapter Framework</li>
+  <li>Thesis Advisor: <a href="https://liu.se/medarbetare/marku61">Dr.  Marco Kuhlmann</a> and <a href="https://liu.se/medarbetare/marbo59">Marcel Bollmann</a></li>
+  </ul>
+</blockquote>
+
+<blockquote>
   <p><strong>M.Sc. Student in Computer Engineering</strong> <br>
    University of Tehran<br>
    Sep 2019 - Sep 2020</p>
