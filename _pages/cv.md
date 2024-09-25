@@ -11,5 +11,5 @@ redirect_from:
 
 You may find my CV [here](https://rominaoji.github.io/files/Romina_CV.pdf).
 
-[Last update: September 2023]
+[Last update: September 2024]
 
